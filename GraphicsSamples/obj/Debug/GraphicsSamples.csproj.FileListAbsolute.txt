@@ -1,0 +1,9 @@
+D:\Projects\GraphicsSamples\GraphicsSamples\bin\Debug\GraphicsSamples.exe.config
+D:\Projects\GraphicsSamples\GraphicsSamples\bin\Debug\GraphicsSamples.exe
+D:\Projects\GraphicsSamples\GraphicsSamples\bin\Debug\GraphicsSamples.pdb
+D:\Projects\GraphicsSamples\GraphicsSamples\obj\Debug\GraphicsSamples.csprojResolveAssemblyReference.cache
+D:\Projects\GraphicsSamples\GraphicsSamples\obj\Debug\GraphicsSamples.GraphicsSamplesForm.resources
+D:\Projects\GraphicsSamples\GraphicsSamples\obj\Debug\GraphicsSamples.Properties.Resources.resources
+D:\Projects\GraphicsSamples\GraphicsSamples\obj\Debug\GraphicsSamples.csproj.GenerateResource.Cache
+D:\Projects\GraphicsSamples\GraphicsSamples\obj\Debug\GraphicsSamples.exe
+D:\Projects\GraphicsSamples\GraphicsSamples\obj\Debug\GraphicsSamples.pdb
